@@ -923,11 +923,11 @@ input[type="submit"],
 input[type="reset"],
 input[type="button"] {
   display: inline-block;
-  font-family: "Nunito Sans", sans-serif;
+  font-family: BYas;
   font-weight: 700;
   font-size: 1.2rem;
   text-transform: uppercase;
-  letter-spacing: .4rem;
+  /*letter-spacing: .4rem;*/
   height: 5.4rem;
   line-height: 5rem;
   padding: 0 3rem;
@@ -4152,6 +4152,7 @@ tr.last td {
   color: #ffffff;
 }
 .s-section {
+  font-family: BYas;
   padding-top: 4rem;
 }
 .s-section.first {
